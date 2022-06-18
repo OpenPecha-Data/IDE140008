@@ -1,0 +1,36 @@
+id: IDE140008
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T03:48:10.246199'
+last_modified: '2022-06-19T03:48:10.246218'
+parser: null
+source_metadata:
+  title: sTag tshang dPal byor bzang pos (15th cent.) Chronicle of China and Tibet
+  author: སྟག་ཚང་དཔལ་འབྱོར་བཟང་པོ།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2012-09); OCR-proofread,
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Rime Centre Moscow, OCR-processed
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:Kunga Dorje (kun)
+  text_witnesses: https://sakyaresearch.org/sources/219
+  bases:
+    ab91:
+      title: sTag tshang dPal byor bzang pos (15th cent.) Chronicle of China and Tibet
+      order: 1
+      base_file: ab91.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
